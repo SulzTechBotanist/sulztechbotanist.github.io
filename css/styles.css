@@ -3247,11 +3247,11 @@ textarea.form-control-lg {
   background-color: #4777cf;
   border-color: #4777cf;
 }
-.btn-dark:hover {
+/* .btn-dark:hover {
   color: #4777cf;
   background-color: #4777cf;
   border-color: #4777cf;
-}
+} */
 .btn-check:focus + .btn-dark, .btn-dark:focus {
   color: #fff;
   background-color: #1c1f23;
