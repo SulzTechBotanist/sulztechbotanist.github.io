@@ -3244,13 +3244,13 @@ textarea.form-control-lg {
 
 .btn-dark {
   color: #4777cf;
-  background-color: #212529;
+  background-color: #4777cf;
   border-color: #4777cf;
 }
 .btn-dark:hover {
-  color: #fff;
-  background-color: #1c1f23;
-  border-color: #1a1e21;
+     color: #fdfdfd;
+    background-color: #0dcaf0;
+    border-color: #0dcaf0;
 }
 .btn-check:focus + .btn-dark, .btn-dark:focus {
   color: #fff;
